@@ -29,6 +29,5 @@ Two python scripts files are present: EDA and Model creation.ipynb and ModelCrea
 EDA and Model creation.ipynb files has all EDA and Model creation scripts.
 ModelCreation_properCoding_documentation.py: I have followed object oriented programming approach for creating model.For this usecase,Random Forest gives good accuracy.
 Note
-I have kept all the analysis results, approach in the PPT:Detailed_Analysis_result_Sakil.pptx
-Note
 trainingData .csv: I have used this dataset for the use case.
+
